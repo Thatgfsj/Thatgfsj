@@ -2,13 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:4fd1c5&height=160&section=header&text=Thatgfsj&fontSize=56&fontColor=ffffff" alt="Thatgfsj" />
 </div>
 
-我是 Thatgfsj（孙政）。写代码为主，语言跟着问题走：Python、Rust、C++、Kotlin、TypeScript 都用，按需取用。仓库里大多是自己要用的东西——校园网需要保活、路由器后台缺一个监控窗口、直播缺实时字幕，于是有了这些项目。过程中值得记录的部分，整理成了博客文章。
-
-## 在做什么
-
-- [neuroweave-cortex](https://github.com/Thatgfsj/neuroweave-cortex)：给 AI Agent 做的长期记忆系统，参考海马体的工作方式——锚点、扩散激活、睡眠期回放与合并
-- [LiveSub](https://github.com/Thatgfsj/LiveSub)：直播实时字幕，本地 Qwen3-ASR 加 llama.cpp，不依赖云端
-- 校园网与路由器的协议分析：从抓包开始，还原登录与轮询接口，做成能常驻的小工具
+我是 Thatgfsj。写代码为主，语言跟着问题走：Python、Rust、C++、Kotlin、TypeScript 都用，按需取用。仓库里大多是自己要用的东西，于是有了这些项目。过程中值得记录的部分，整理成了博客文章。
 
 ## 仓库
 
@@ -26,14 +20,6 @@
   <tr><td><a href="https://github.com/Thatgfsj/MyPackage">MyPackage</a></td><td>快递驿站管理 Android 应用，Jetpack Compose</td></tr>
   <tr><td><a href="https://github.com/Thatgfsj/android-gradle-skills">android-gradle-skills</a></td><td>Android/Gradle 构建体系的 agent skill</td></tr>
 </table>
-
-## 开源贡献
-
-给用到的仓库提过一些 PR，均已合并：
-
-- [openclaw/openclaw](https://github.com/openclaw/openclaw)：修复 Windows 网关进程收到 SIGUSR1 时异常退出的问题
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)：修复后台标题生成覆盖活动会话的问题
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)：为 serve 模式补充多语言、统计面板与会话管理
 
 ## 文章
 
