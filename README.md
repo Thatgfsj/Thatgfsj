@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:4fd1c5&height=160&section=header&text=Thatgfsj&fontSize=56&fontColor=ffffff" alt="Thatgfsj" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Thatgfsj&fontSize=56&fontColor=ffffff" alt="Thatgfsj" />
 </div>
 
 我是 Thatgfsj。写代码为主，语言跟着问题走：Python、Rust、C++、Kotlin、TypeScript 都用，按需取用。仓库里大多是自己要用的东西，于是有了这些项目。过程中值得记录的部分，整理成了博客文章。
@@ -31,10 +31,13 @@
 ## 数据
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thatgfsj&show_icons=true&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thatgfsj&layout=compact&hide_border=true" alt="top langs" />
+  <img src="https://ghchart.rshah.org/667eea/Thatgfsj" alt="贡献图" width="800" />
+  <p>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThatgfsj&query=%24.public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&style=flat-square&color=667eea" alt="公开仓库" />
+    <img src="https://img.shields.io/github/followers/Thatgfsj?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=764ba2" alt="关注者" />
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:4fd1c5&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="" />
 </div>
