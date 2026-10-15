@@ -23,7 +23,7 @@
 
 ## 文章
 
-写得不快，重在把过程记完整：抓包、协议分析、工程实现、踩坑，一条主线下来。
+写得不多，重在过程完整：抓包、协议分析、工程实现、踩坑，一条主线。
 
 - [用 C++ 写一个 ZTE 路由器实时网速监控小工具](https://www.thatgfsj.xyz/blog/2026/07/router-monitor/)——从浏览器抓包逆向 ZTE 路由器私有协议，到纯 Win32 单文件程序
 - [校园网 Web 认证（Portal Authentication）机制详解](https://www.thatgfsj.xyz/blog/2026/06/campus-network-portal-authentication/)——强制门户的检测逻辑、登录加密字段与组网形态
