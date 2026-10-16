@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="ttld" preserveAspectRatio="xMidYMid meet">
+  <title id="ttld">Thatgfsj — 写代码为主，语言跟着问题走</title>
+  <defs>
+    <linearGradient id="bgd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0c18" />
+      <stop offset="0.55" stop-color="#1e2546" />
+      <stop offset="1" stop-color="#1d1731" />
+    </linearGradient>
+    <linearGradient id="accd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7288ec" />
+      <stop offset="1" stop-color="#8159a9" />
+    </linearGradient>
+    <radialGradient id="gld" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#667eea" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#667eea" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="gridd" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2c2e38" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bgd)" />
+  <rect width="1280" height="320" fill="url(#gridd)" opacity="0.5" />
+  <circle cx="1101" cy="90" r="275" fill="url(#gld)" />
+  <circle cx="77" cy="326" r="198" fill="url(#gld)" />
+  <g fill="none" stroke="#7288ec" stroke-width="1.5">
+    <circle cx="1203" cy="83" r="64" opacity="0.28" />
+    <circle cx="1203" cy="83" r="99" opacity="0.17" />
+    <circle cx="1203" cy="83" r="134" opacity="0.10" />
+  </g>
+  <rect x="0" y="314" width="1280" height="6" fill="url(#accd)" />
+  <text x="640" y="148" text-anchor="middle" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="68" font-weight="650" fill="#e8e9f5" letter-spacing="-0.5">Thatgfsj</text>
+  <text x="640" y="216" text-anchor="middle" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="26" font-weight="400" fill="#9b9fbe">写代码为主，语言跟着问题走</text>
+</svg>
