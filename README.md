@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-light.svg">
-    <img alt="Thatgfsj — 写代码为主，也做 DSH 插件与工具链" src="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-light.svg" width="100%">
+    <img alt="Thatgfsj — 51522zzwlwl冰杯 src="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-light.svg" width="100%">
   </picture>
 </p>
 
