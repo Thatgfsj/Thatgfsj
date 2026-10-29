@@ -4,14 +4,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-light.svg">
-    <img alt="Thatgfsj — 51522zzwlwl冰杯 src="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-light.svg" width="100%">
+    <img alt="Thatgfsj — 写代码为主，语言跟着问题走" src="https://raw.githubusercontent.com/Thatgfsj/Thatgfsj/main/assets/header-light.svg" width="100%">
   </picture>
 </p>
 
 <h1 align="center">Thatgfsj</h1>
 
 <p align="center">
-  写代码为主，语言跟着问题走；DSH 插件与技能维护在 <a href="https://github.com/thatgfsj-dsh">thatgfsj-dsh</a>。
+  写代码为主，语言跟着问题走：Python、Rust、C++、Kotlin、TypeScript 按需取用。
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
 <p align="center">
   <a href="#关于">关于</a> ·
   <a href="#精选项目">精选项目</a> ·
-  <a href="#dsh-组织">DSH 组织</a> ·
   <a href="#文章">文章</a> ·
   <a href="#数据">数据</a>
 </p>
@@ -39,7 +38,7 @@
 
 - **Android / Kotlin** —— Jetpack Compose 应用（[MyPackage](https://github.com/Thatgfsj/MyPackage)）、[中国象棋引擎](https://github.com/Thatgfsj/xiangqi)、[Android TV 直播客户端](https://github.com/Thatgfsj/TVLive)
 - **Rust / 系统工具** —— [语音输入](https://github.com/Thatgfsj/voiceinput)、[校园网保活](https://github.com/Thatgfsj/XXGCXY-CampusNet-AutoLogin)、多 Agent 工作流 [Flowntier](https://github.com/Thatgfsj/Flowntier)
-- **AI Agent 工具链** —— [DSH 插件与技能](https://github.com/thatgfsj-dsh)：插件、技能、长期记忆与多智能体协作
+- **AI Agent 工具链** —— 长期记忆系统 [neuroweave-cortex](https://github.com/Thatgfsj/neuroweave-cortex)、DSH 插件与技能、多智能体协作
 - **网络协议** —— 路由器私有协议逆向、强制门户（Portal）认证机制
 
 ## 精选项目
@@ -54,22 +53,6 @@
 | [thatgfsj-code](https://github.com/Thatgfsj/thatgfsj-code) | 终端 AI 编程助手（gfcode）：Ink TUI、Agent 工具调用、多 Provider 接入 | 2 |
 | [wangwenwrite-skill](https://github.com/Thatgfsj-easyRep/wangwenwrite-skill) | 男频系统流网文全流程创作助手：选题、设定、大纲、章节、润色与发布适配 | 11 |
 | [XXGCXY-CampusNet-AutoLogin](https://github.com/Thatgfsj/XXGCXY-CampusNet-AutoLogin) | 校园网 Portal 认证自动登录：协议逆向 + Tauri 桌面壳 + 保活 | 3 |
-
-## DSH 组织
-
-[**thatgfsj-dsh**](https://github.com/thatgfsj-dsh) 用来收纳 DeepSeek Harness（DSH）插件与技能，个人账号里的 DSH 插件正在迁入。
-
-| 插件 | 用途 | 语言 |
-|---|---|---|
-| [dsh-phone](https://github.com/thatgfsj-dsh/dsh-phone) | 在后端跑 Android 实例，经浏览器右侧栏呈现，注册 9 个 `phone_*` 工具 | TypeScript |
-| [dsh-emotion-analyzer](https://github.com/thatgfsj-dsh/dsh-emotion-analyzer) | 本地 ONNX 情绪打分，投影进会话并注入可拖拽悬浮框 | TypeScript |
-| [dsh-composer-assist](https://github.com/thatgfsj-dsh/dsh-composer-assist) | 预测下一条输入，支持草稿补全与提示词润色 | JavaScript |
-| [dsh-trae-api](https://github.com/thatgfsj-dsh/dsh-trae-api) | 把 Trae Work CN 的额度转成本地 OpenAI / Anthropic 兼容 API | JavaScript |
-| [dsh-migrate](https://github.com/thatgfsj-dsh/dsh-migrate) | 把一份 DSH 安装打包成 zip，迁移到另一台电脑再释放 | JavaScript |
-| [dsh-Compress-codex](https://github.com/thatgfsj-dsh/dsh-Compress-codex) | Codex 风格的上下文压缩后端，替代原生 compaction-basic 策略层 | JavaScript |
-| [dsh-plugin-skills](https://github.com/Thatgfsj/dsh-plugin-skills) | DSH 插件构建 / 技能编写指南（仍留在个人账号） | JavaScript |
-
-> [dsh-ops](https://github.com/T-Auto/dsh-ops) 的主仓库仍在 T-Auto；组织内是 fork，不作为主开发仓库。
 
 ## 文章
 
