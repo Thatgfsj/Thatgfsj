@@ -24,7 +24,6 @@
 <p align="center">
   <a href="#关于">关于</a> ·
   <a href="#精选项目">精选项目</a> ·
-  <a href="#组织">组织</a> ·
   <a href="#文章">文章</a> ·
   <a href="#数据">数据</a>
 </p>
@@ -54,16 +53,6 @@
 | [thatgfsj-code](https://github.com/Thatgfsj/thatgfsj-code) | 终端 AI 编程助手（gfcode）：Ink TUI、Agent 工具调用、多 Provider 接入 | 2 |
 | [wangwenwrite-skill](https://github.com/Thatgfsj-easyRep/wangwenwrite-skill) | 男频系统流网文全流程创作助手：选题、设定、大纲、章节、润色与发布适配 | 11 |
 | [XXGCXY-CampusNet-AutoLogin](https://github.com/Thatgfsj/XXGCXY-CampusNet-AutoLogin) | 校园网 Portal 认证自动登录：协议逆向 + Tauri 桌面壳 + 保活 | 3 |
-
-## 组织
-
-| 组织 | 方向 |
-|---|---|
-| [Thatgfsj-easyRep](https://github.com/Thatgfsj-easyRep) | 整理与归档 |
-| [Thatgfsj-minecraft](https://github.com/Thatgfsj-minecraft) | Minecraft 模组与开发工具 |
-| [thatgfsj-dsh](https://github.com/thatgfsj-dsh) | DSH 插件与技能 |
-| [Thatgfsj-contribs](https://github.com/Thatgfsj-contribs) | 开源贡献与 fork 归档 |
-| [XXGCIELab](https://github.com/XXGCIELab) | 信工实验室 |
 
 ## 文章
 
