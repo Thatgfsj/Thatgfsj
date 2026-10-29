@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="ttll" preserveAspectRatio="xMidYMid meet">
-  <title id="ttll">Thatgfsj — 写代码为主，语言跟着问题走</title>
+  <title id="ttll">Thatgfsj — 写代码为主，也做 DSH 插件与工具链</title>
   <defs>
     <linearGradient id="bgl" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ffffff" />
-      <stop offset="0.55" stop-color="#f0f2fd" />
-      <stop offset="1" stop-color="#f4f1f8" />
+      <stop offset="0.55" stop-color="#f6ece8" />
+      <stop offset="1" stop-color="#fbf6ef" />
     </linearGradient>
     <linearGradient id="accl" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#667eea" />
-      <stop offset="1" stop-color="#764ba2" />
+      <stop offset="0" stop-color="#a53e18" />
+      <stop offset="1" stop-color="#c98a3c" />
     </linearGradient>
     <radialGradient id="gll" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#667eea" stop-opacity="0.16" />
-      <stop offset="1" stop-color="#667eea" stop-opacity="0" />
+      <stop offset="0" stop-color="#a53e18" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#a53e18" stop-opacity="0" />
     </radialGradient>
     <pattern id="gridl" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#e7e7e9" stroke-width="1" />
+      <path d="M32 0H0V32" fill="none" stroke="#e8e1d3" stroke-width="1" />
     </pattern>
   </defs>
   <rect width="1280" height="320" fill="url(#bgl)" />
   <rect width="1280" height="320" fill="url(#gridl)" opacity="0.5" />
   <circle cx="1101" cy="90" r="275" fill="url(#gll)" />
   <circle cx="77" cy="326" r="198" fill="url(#gll)" />
-  <g fill="none" stroke="#667eea" stroke-width="1.5">
-    <circle cx="1203" cy="83" r="64" opacity="0.2" />
-    <circle cx="1203" cy="83" r="99" opacity="0.12" />
-    <circle cx="1203" cy="83" r="134" opacity="0.07" />
+  <g fill="none" stroke="#a53e18" stroke-width="1.5">
+    <circle cx="1165" cy="198" r="64" opacity="0.2" />
+    <circle cx="1165" cy="198" r="99" opacity="0.12" />
+    <circle cx="1165" cy="198" r="134" opacity="0.07" />
   </g>
   <rect x="0" y="314" width="1280" height="6" fill="url(#accl)" />
-  <text x="640" y="148" text-anchor="middle" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="68" font-weight="650" fill="#111222" letter-spacing="-0.5">Thatgfsj</text>
-  <text x="640" y="216" text-anchor="middle" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="26" font-weight="400" fill="#525570">写代码为主，语言跟着问题走</text>
+  <text x="72" y="148" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="68" font-weight="650" fill="#111222" letter-spacing="-0.5">Thatgfsj</text>
+  <text x="72" y="216" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="26" font-weight="400" fill="#525570">写代码为主，也做 DSH 插件与工具链</text>
 </svg>
