@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="ttll" preserveAspectRatio="xMidYMid meet">
-  <title id="ttll">Thatgfsj — 写代码为主，也做 DSH 插件与工具链</title>
+  <title id="ttll">Thatgfsj — 写代码为主，语言跟着问题走</title>
   <defs>
     <linearGradient id="bgl" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ffffff" />
@@ -29,5 +29,5 @@
   </g>
   <rect x="0" y="314" width="1280" height="6" fill="url(#accl)" />
   <text x="72" y="148" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="68" font-weight="650" fill="#111222" letter-spacing="-0.5">Thatgfsj</text>
-  <text x="72" y="216" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="26" font-weight="400" fill="#525570">写代码为主，也做 DSH 插件与工具链</text>
+  <text x="72" y="216" font-family="ui-sans-serif, -apple-system, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans SC&#39;, sans-serif" font-size="26" font-weight="400" fill="#525570">写代码为主，语言跟着问题走</text>
 </svg>
